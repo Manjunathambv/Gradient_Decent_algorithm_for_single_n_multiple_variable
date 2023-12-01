@@ -1,0 +1,2 @@
+# Gradient_Decent_algorithm_for_single_n_multiple_variable
+Gradient decent algo 
